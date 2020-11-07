@@ -1,8 +1,11 @@
 # Aprende neo vim
 ## modo normal
 j = moverte hacia abajo
+
 k = moverte hacia arriba
-h = moverte a la derecha 
+
+h = moverte a la derecha
+
 l = moverte a la izquierda
 w = moverte al principio de cada palabra a la derecha
 b = moverte al principio de cada palabra a la izquierda
