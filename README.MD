@@ -8,6 +8,7 @@
 - b = moverte al principio de cada palabra a la izquierda
 - e = moverte al final de cada palabra a la derecha
 - x = eliminar
+## moverse entre archivos
 - g + d = ir a la definicion
 - g + f = navegar entre archivos
 - ctrl + o = navegar en el historial hacia atras
@@ -15,5 +16,4 @@
 ## modo insert = i
 - a = modo insertar despues del cursor
 - shitf + a = modo insertar al final de la linea
-## moverse entre archivos
 
