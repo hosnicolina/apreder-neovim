@@ -51,4 +51,5 @@ numero de linea + G = ir a linea en especifico
 ## copiar y pegar modo visual
 - v = entra al modo visual
 - y = copia lo seleccionado
-
+## centrar en base al cursor
+zz = centra la pantalla en base al cursor
