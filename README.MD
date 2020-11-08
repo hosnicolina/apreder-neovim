@@ -43,3 +43,12 @@ numero de linea + G = ir a linea en especifico
 - ? = busqueda detras del cursor
 ## moverse entre parentesis
 - shift + %
+## Abrit nuevas lineas
+- o = una nueva linea a abajo de curso
+- shift + o = una nueva linea arriba del cursor
+## reemplazar
+- shift + r = modo reemplazar
+## copiar y pegar modo visual
+- v = entra al modo visual
+- y = copia lo seleccionado
+
